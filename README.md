@@ -1,3 +1,3 @@
-This repository is a Python Capstone in relation to building an API for a database. 
-The database used is a dummy list of cafes containing certain information (e.g. whether it has a wifi or not) in London.
-To learn more about how to use the API, see Postman API Documentation here: https://documenter.getpostman.com/view/42436886/2sAYdZuZkR
+This repository provides a basic building blocks to building an API to a database. 
+The database used in this project is a 'dummy' list of cafes in London containing certain information about their location, coffee price and others e.g. whether it has a wifi or not.
+To learn more about how to access the API, see the API Documentation here: https://documenter.getpostman.com/view/42436886/2sAYdZuZkR
